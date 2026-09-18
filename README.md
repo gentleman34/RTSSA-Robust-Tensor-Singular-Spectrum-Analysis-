@@ -1,7 +1,7 @@
 # Robust Low-Rank Reconstruction of 3-D Seismic Data
 
-This repository provides a MATLAB implementation of a robust low-rank
-reconstruction method for 3-D seismic data with randomly missing samples.
+This repository provides a MATLAB implementation of the proposed Robust Tensor 
+Singular Spectrum Analysis (RTSSA) method for 3-D seismic erratic noise attenuation.
 
 The implementation combines discrete cosine transform (DCT), frequency-space
 Hankel matrix construction, robust low-rank matrix factorization, Tukey
